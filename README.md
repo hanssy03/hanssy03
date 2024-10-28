@@ -4,9 +4,9 @@
 
 <div align="center">
 
-## 👋 &nbsp;Hey there!
+<!-- ## 👋 &nbsp;Hey there! -->
 
-###About Me
+###  &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science.\
